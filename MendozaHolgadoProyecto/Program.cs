@@ -34,7 +34,6 @@ namespace MendozaHolgadoProyecto
 
             Console.ReadKey();
 
-
         }
     }
 }
